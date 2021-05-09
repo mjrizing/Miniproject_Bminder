@@ -7,4 +7,4 @@
 OPENCV＋Python＋AndroidStudio
 
 ＊開発期間
-4月16日～５月3日まで！！！！
+~~4月16日～５月まで！！！！
